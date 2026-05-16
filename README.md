@@ -3,13 +3,14 @@
 Interactive Power BI dashboard analyzing survey data from data professionals, including salary trends, work-life balance, programming preferences, career difficulty insights, and demographic breakdowns.
 
 ---
-
+<!--
 # Power BI Dashboard
 
 ## Interactive Dashboard
 [Insert Power BI Dashboard Link Here]
 
 ---
+-->
 
 # Table of Contents
 
